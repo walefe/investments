@@ -21,6 +21,11 @@ This app features all the latest tools and practices in web development!
 
 - ⚛ **React** — A library to build user interfaces
 - **React-Routes** - A popular library for router.
+- ♻ **Redux** — State management
+- 🌸 **Reactotron** - Helps debugging process
+- **Unform** - Unform is a performance focused library that helps you creating beautiful forms.
+- **Recharts** - A composable charting library built on React components.
+- **React Select** - A flexible and beautiful Select input control for ReactJS with multiselect.
 - 💅 **CSS** — Styled-components and Styled-Icons
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
