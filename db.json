@@ -1,0 +1,2002 @@
+{
+  "investments": [
+    {
+      "id": "1",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/01/2019",
+      "purchaseFee": "7.32%",
+      "rateReturn": "7.44%",
+      "unitPrice": "1047.45"
+    },
+    {
+      "id": "2",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/01/2019",
+      "purchaseFee": "8.32%",
+      "rateReturn": "7.3%",
+      "unitPrice": "1050.29"
+    },
+    {
+      "id": "3",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/01/2019",
+      "purchaseFee": "9.32%",
+      "rateReturn": "7.39%",
+      "unitPrice": "1048.95"
+    },
+    {
+      "id": "4",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/01/2019",
+      "purchaseFee": "10.32%",
+      "rateReturn": "7.39%",
+      "unitPrice": "1049.24"
+    },
+    {
+      "id": "5",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/01/2019",
+      "purchaseFee": "11.32%",
+      "rateReturn": "7.46%",
+      "unitPrice": "1048.27"
+    },
+    {
+      "id": "6",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/01/2019",
+      "purchaseFee": "12.32%",
+      "rateReturn": "7.45%",
+      "unitPrice": "1048.74"
+    },
+    {
+      "id": "7",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/01/2019",
+      "purchaseFee": "13.32%",
+      "rateReturn": "7.49%",
+      "unitPrice": "1048.32"
+    },
+    {
+      "id": "8",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/01/2019",
+      "purchaseFee": "14.32%",
+      "rateReturn": "7.54%",
+      "unitPrice": "1047.72"
+    },
+    {
+      "id": "9",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/01/2019",
+      "purchaseFee": "15.32%",
+      "rateReturn": "7.55%",
+      "unitPrice": "1047.84"
+    },
+    {
+      "id": "10",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "15/01/2019",
+      "purchaseFee": "16.32%",
+      "rateReturn": "7.46%",
+      "unitPrice": "1049.74"
+    },
+    {
+      "id": "11",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "16/01/2019",
+      "purchaseFee": "17.32%",
+      "rateReturn": "7.55%",
+      "unitPrice": "1048.43"
+    },
+    {
+      "id": "22",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "31/01/2019",
+      "purchaseFee": "28.32%",
+      "rateReturn": "7.09%",
+      "unitPrice": "1059.78"
+    },
+    {
+      "id": "23",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "01/02/2019",
+      "purchaseFee": "29.32%",
+      "rateReturn": "7.08%",
+      "unitPrice": "1060.24"
+    },
+    {
+      "id": "24",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/02/2019",
+      "purchaseFee": "30.32%",
+      "rateReturn": "7.07%",
+      "unitPrice": "1060.7"
+    },
+    {
+      "id": "25",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/02/2019",
+      "purchaseFee": "31.32%",
+      "rateReturn": "7.1%",
+      "unitPrice": "1060.46"
+    },
+    {
+      "id": "26",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/02/2019",
+      "purchaseFee": "32.32%",
+      "rateReturn": "7.14%",
+      "unitPrice": "1060.04"
+    },
+    {
+      "id": "27",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/02/2019",
+      "purchaseFee": "33.32%",
+      "rateReturn": "7.23%",
+      "unitPrice": "1058.76"
+    },
+    {
+      "id": "28",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/02/2019",
+      "purchaseFee": "34.32%",
+      "rateReturn": "7.2%",
+      "unitPrice": "1059.57"
+    },
+    {
+      "id": "29",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/02/2019",
+      "purchaseFee": "35.32%",
+      "rateReturn": "7.34%",
+      "unitPrice": "1057.43"
+    },
+    {
+      "id": "30",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "12/02/2019",
+      "purchaseFee": "36.32%",
+      "rateReturn": "7.29%",
+      "unitPrice": "1058.59"
+    },
+    {
+      "id": "31",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/02/2019",
+      "purchaseFee": "37.32%",
+      "rateReturn": "7.18%",
+      "unitPrice": "1060.78"
+    },
+    {
+      "id": "32",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/02/2019",
+      "purchaseFee": "38.32%",
+      "rateReturn": "7.07%",
+      "unitPrice": "1062.96"
+    },
+    {
+      "id": "38",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "22/02/2019",
+      "purchaseFee": "44.32%",
+      "rateReturn": "7.15%",
+      "unitPrice": "1063.3"
+    },
+    {
+      "id": "39",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "25/02/2019",
+      "purchaseFee": "45.32%",
+      "rateReturn": "7.1%",
+      "unitPrice": "1064.44"
+    },
+    {
+      "id": "40",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/02/2019",
+      "purchaseFee": "46.32%",
+      "rateReturn": "7.2%",
+      "unitPrice": "1063.03"
+    },
+    {
+      "id": "41",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/02/2019",
+      "purchaseFee": "47.32%",
+      "rateReturn": "7.21%",
+      "unitPrice": "1063.14"
+    },
+    {
+      "id": "42",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/02/2019",
+      "purchaseFee": "48.32%",
+      "rateReturn": "7.18%",
+      "unitPrice": "1063.94"
+    },
+    {
+      "id": "43",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "01/03/2019",
+      "purchaseFee": "49.32%",
+      "rateReturn": "7.23%",
+      "unitPrice": "1063.39"
+    },
+    {
+      "id": "44",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/03/2019",
+      "purchaseFee": "50.32%",
+      "rateReturn": "7.28%",
+      "unitPrice": "1062.84"
+    },
+    {
+      "id": "45",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/03/2019",
+      "purchaseFee": "51.32%",
+      "rateReturn": "7.27%",
+      "unitPrice": "1063.29"
+    },
+    {
+      "id": "46",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/03/2019",
+      "purchaseFee": "52.32%",
+      "rateReturn": "7.23%",
+      "unitPrice": "1064.26"
+    },
+    {
+      "id": "47",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/03/2019",
+      "purchaseFee": "53.32%",
+      "rateReturn": "7.15%",
+      "unitPrice": "1065.88"
+    },
+    {
+      "id": "54",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "21/03/2019",
+      "purchaseFee": "61.32%",
+      "rateReturn": "6.9%",
+      "unitPrice": "1072.31"
+    },
+    {
+      "id": "55",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "22/03/2019",
+      "purchaseFee": "62.32%",
+      "rateReturn": "7.14%",
+      "unitPrice": "1068.64"
+    },
+    {
+      "id": "56",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "25/03/2019",
+      "purchaseFee": "63.32%",
+      "rateReturn": "7.26%",
+      "unitPrice": "1066.96"
+    },
+    {
+      "id": "57",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/03/2019",
+      "purchaseFee": "64.32%",
+      "rateReturn": "7.05%",
+      "unitPrice": "1070.69"
+    },
+    {
+      "id": "58",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/03/2019",
+      "purchaseFee": "65.32%",
+      "rateReturn": "7.22%",
+      "unitPrice": "1068.2"
+    },
+    {
+      "id": "59",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/03/2019",
+      "purchaseFee": "66.32%",
+      "rateReturn": "7.36%",
+      "unitPrice": "1066.22"
+    },
+    {
+      "id": "60",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "29/03/2019",
+      "purchaseFee": "67.32%",
+      "rateReturn": "7.12%",
+      "unitPrice": "1070.4"
+    },
+    {
+      "id": "61",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "01/04/2019",
+      "purchaseFee": "68.32%",
+      "rateReturn": "7.13%",
+      "unitPrice": "1070.53"
+    },
+    {
+      "id": "62",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/04/2019",
+      "purchaseFee": "69.32%",
+      "rateReturn": "7.11%",
+      "unitPrice": "1071.14"
+    },
+    {
+      "id": "63",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/04/2019",
+      "purchaseFee": "70.32%",
+      "rateReturn": "7.06%",
+      "unitPrice": "1072.23"
+    },
+    {
+      "id": "64",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/04/2019",
+      "purchaseFee": "71.32%",
+      "rateReturn": "7.13%",
+      "unitPrice": "1071.39"
+    },
+    {
+      "id": "65",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/04/2019",
+      "purchaseFee": "72.32%",
+      "rateReturn": "7.1%",
+      "unitPrice": "1072.16"
+    },
+    {
+      "id": "66",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/04/2019",
+      "purchaseFee": "73.32%",
+      "rateReturn": "7.12%",
+      "unitPrice": "1072.13"
+    },
+    {
+      "id": "67",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/04/2019",
+      "purchaseFee": "74.32%",
+      "rateReturn": "7.15%",
+      "unitPrice": "1071.94"
+    },
+    {
+      "id": "75",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "22/04/2019",
+      "purchaseFee": "82.32%",
+      "rateReturn": "7.05%",
+      "unitPrice": "1075.82"
+    },
+    {
+      "id": "76",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "23/04/2019",
+      "purchaseFee": "83.32%",
+      "rateReturn": "7.03%",
+      "unitPrice": "1076.42"
+    },
+    {
+      "id": "77",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "24/04/2019",
+      "purchaseFee": "84.32%",
+      "rateReturn": "6.98%",
+      "unitPrice": "1077.5"
+    },
+    {
+      "id": "78",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "25/04/2019",
+      "purchaseFee": "85.32%",
+      "rateReturn": "7.14%",
+      "unitPrice": "1075.28"
+    },
+    {
+      "id": "79",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/04/2019",
+      "purchaseFee": "86.32%",
+      "rateReturn": "7.14%",
+      "unitPrice": "1075.56"
+    },
+    {
+      "id": "80",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "29/04/2019",
+      "purchaseFee": "87.32%",
+      "rateReturn": "7.14%",
+      "unitPrice": "1075.85"
+    },
+    {
+      "id": "81",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "30/04/2019",
+      "purchaseFee": "88.32%",
+      "rateReturn": "7.16%",
+      "unitPrice": "1075.83"
+    },
+    {
+      "id": "82",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/05/2019",
+      "purchaseFee": "89.32%",
+      "rateReturn": "7.19%",
+      "unitPrice": "1075.66"
+    },
+    {
+      "id": "83",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/05/2019",
+      "purchaseFee": "90.32%",
+      "rateReturn": "7.13%",
+      "unitPrice": "1076.88"
+    },
+    {
+      "id": "84",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/05/2019",
+      "purchaseFee": "91.32%",
+      "rateReturn": "7.09%",
+      "unitPrice": "1077.78"
+    },
+    {
+      "id": "85",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/05/2019",
+      "purchaseFee": "92.32%",
+      "rateReturn": "7.06%",
+      "unitPrice": "1078.53"
+    },
+    {
+      "id": "86",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/05/2019",
+      "purchaseFee": "93.32%",
+      "rateReturn": "7.04%",
+      "unitPrice": "1079.13"
+    },
+    {
+      "id": "87",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/05/2019",
+      "purchaseFee": "94.32%",
+      "rateReturn": "6.99%",
+      "unitPrice": "1080.18"
+    },
+    {
+      "id": "88",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/05/2019",
+      "purchaseFee": "95.32%",
+      "rateReturn": "6.93%",
+      "unitPrice": "1081.39"
+    },
+    {
+      "id": "89",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/05/2019",
+      "purchaseFee": "96.32%",
+      "rateReturn": "6.98%",
+      "unitPrice": "1080.9"
+    },
+    {
+      "id": "90",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/05/2019",
+      "purchaseFee": "97.32%",
+      "rateReturn": "6.97%",
+      "unitPrice": "1081.34"
+    },
+    {
+      "id": "91",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "15/05/2019",
+      "purchaseFee": "98.32%",
+      "rateReturn": "6.91%",
+      "unitPrice": "1082.54"
+    },
+    {
+      "id": "92",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "16/05/2019",
+      "purchaseFee": "99.32%",
+      "rateReturn": "6.9%",
+      "unitPrice": "1082.97"
+    },
+    {
+      "id": "93",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "17/05/2019",
+      "purchaseFee": "100.32%",
+      "rateReturn": "6.98%",
+      "unitPrice": "1082.04"
+    },
+    {
+      "id": "94",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "20/05/2019",
+      "purchaseFee": "101.32%",
+      "rateReturn": "7.05%",
+      "unitPrice": "1081.27"
+    },
+    {
+      "id": "95",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "21/05/2019",
+      "purchaseFee": "102.32%",
+      "rateReturn": "6.97%",
+      "unitPrice": "1082.76"
+    },
+    {
+      "id": "96",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "22/05/2019",
+      "purchaseFee": "103.32%",
+      "rateReturn": "6.87%",
+      "unitPrice": "1084.55"
+    },
+    {
+      "id": "97",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "23/05/2019",
+      "purchaseFee": "104.32%",
+      "rateReturn": "6.92%",
+      "unitPrice": "1084.08"
+    },
+    {
+      "id": "98",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "24/05/2019",
+      "purchaseFee": "105.32%",
+      "rateReturn": "6.82%",
+      "unitPrice": "1085.87"
+    },
+    {
+      "id": "99",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/05/2019",
+      "purchaseFee": "106.32%",
+      "rateReturn": "6.81%",
+      "unitPrice": "1086.3"
+    },
+    {
+      "id": "100",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/05/2019",
+      "purchaseFee": "107.32%",
+      "rateReturn": "6.78%",
+      "unitPrice": "1087.02"
+    },
+    {
+      "id": "101",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "29/05/2019",
+      "purchaseFee": "108.32%",
+      "rateReturn": "6.69%",
+      "unitPrice": "1088.65"
+    },
+    {
+      "id": "102",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "30/05/2019",
+      "purchaseFee": "109.32%",
+      "rateReturn": "6.68%",
+      "unitPrice": "1089.07"
+    },
+    {
+      "id": "103",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "31/05/2019",
+      "purchaseFee": "110.32%",
+      "rateReturn": "6.6%",
+      "unitPrice": "1090.54"
+    },
+    {
+      "id": "104",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/06/2019",
+      "purchaseFee": "111.32%",
+      "rateReturn": "6.51%",
+      "unitPrice": "1092.15"
+    },
+    {
+      "id": "105",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/06/2019",
+      "purchaseFee": "112.32%",
+      "rateReturn": "6.48%",
+      "unitPrice": "1092.86"
+    },
+    {
+      "id": "106",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/06/2019",
+      "purchaseFee": "113.32%",
+      "rateReturn": "6.43%",
+      "unitPrice": "1093.87"
+    },
+    {
+      "id": "107",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/06/2019",
+      "purchaseFee": "114.32%",
+      "rateReturn": "6.5%",
+      "unitPrice": "1093.1"
+    },
+    {
+      "id": "108",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/06/2019",
+      "purchaseFee": "115.32%",
+      "rateReturn": "6.4%",
+      "unitPrice": "1094.85"
+    },
+    {
+      "id": "109",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/06/2019",
+      "purchaseFee": "116.32%",
+      "rateReturn": "6.31%",
+      "unitPrice": "1096.44"
+    },
+    {
+      "id": "110",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/06/2019",
+      "purchaseFee": "117.32%",
+      "rateReturn": "6.29%",
+      "unitPrice": "1097"
+    },
+    {
+      "id": "111",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "12/06/2019",
+      "purchaseFee": "118.32%",
+      "rateReturn": "6.24%",
+      "unitPrice": "1098"
+    },
+    {
+      "id": "112",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/06/2019",
+      "purchaseFee": "119.32%",
+      "rateReturn": "6.19%",
+      "unitPrice": "1098.99"
+    },
+    {
+      "id": "113",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/06/2019",
+      "purchaseFee": "120.32%",
+      "rateReturn": "6.12%",
+      "unitPrice": "1100.28"
+    },
+    {
+      "id": "114",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "17/06/2019",
+      "purchaseFee": "121.32%",
+      "rateReturn": "6.06%",
+      "unitPrice": "1101.41"
+    },
+    {
+      "id": "115",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "18/06/2019",
+      "purchaseFee": "122.32%",
+      "rateReturn": "6.03%",
+      "unitPrice": "1102.1"
+    },
+    {
+      "id": "116",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "19/06/2019",
+      "purchaseFee": "123.32%",
+      "rateReturn": "6.13%",
+      "unitPrice": "1100.89"
+    },
+    {
+      "id": "117",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "21/06/2019",
+      "purchaseFee": "124.32%",
+      "rateReturn": "5.95%",
+      "unitPrice": "1103.77"
+    },
+    {
+      "id": "118",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "24/06/2019",
+      "purchaseFee": "125.32%",
+      "rateReturn": "5.95%",
+      "unitPrice": "1104.02"
+    },
+    {
+      "id": "119",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "25/06/2019",
+      "purchaseFee": "126.32%",
+      "rateReturn": "5.99%",
+      "unitPrice": "1103.69"
+    },
+    {
+      "id": "120",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/06/2019",
+      "purchaseFee": "127.32%",
+      "rateReturn": "6.05%",
+      "unitPrice": "1103.07"
+    },
+    {
+      "id": "121",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/06/2019",
+      "purchaseFee": "128.32%",
+      "rateReturn": "6.13%",
+      "unitPrice": "1102.17"
+    },
+    {
+      "id": "122",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/06/2019",
+      "purchaseFee": "129.32%",
+      "rateReturn": "5.98%",
+      "unitPrice": "1055.77"
+    },
+    {
+      "id": "133",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "01/07/2019",
+      "purchaseFee": "130.32%",
+      "rateReturn": "5.91%",
+      "unitPrice": "1057.02"
+    },
+    {
+      "id": "138",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "22/07/2019",
+      "purchaseFee": "145.32%",
+      "rateReturn": "5.64%",
+      "unitPrice": "1064.32"
+    },
+    {
+      "id": "139",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "23/07/2019",
+      "purchaseFee": "146.32%",
+      "rateReturn": "5.57%",
+      "unitPrice": "1065.52"
+    },
+    {
+      "id": "140",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "24/07/2019",
+      "purchaseFee": "147.32%",
+      "rateReturn": "5.52%",
+      "unitPrice": "1066.44"
+    },
+    {
+      "id": "141",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "25/07/2019",
+      "purchaseFee": "148.32%",
+      "rateReturn": "5.52%",
+      "unitPrice": "1066.66"
+    },
+    {
+      "id": "142",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/07/2019",
+      "purchaseFee": "149.32%",
+      "rateReturn": "5.57%",
+      "unitPrice": "1066.19"
+    },
+    {
+      "id": "143",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "29/07/2019",
+      "purchaseFee": "150.32%",
+      "rateReturn": "5.57%",
+      "unitPrice": "1066.42"
+    },
+    {
+      "id": "144",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "30/07/2019",
+      "purchaseFee": "151.32%",
+      "rateReturn": "5.55%",
+      "unitPrice": "1066.92"
+    },
+    {
+      "id": "145",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "31/07/2019",
+      "purchaseFee": "152.32%",
+      "rateReturn": "5.53%",
+      "unitPrice": "1067.41"
+    },
+    {
+      "id": "146",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "01/08/2019",
+      "purchaseFee": "153.32%",
+      "rateReturn": "5.47%",
+      "unitPrice": "1068.46"
+    },
+    {
+      "id": "147",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/08/2019",
+      "purchaseFee": "154.32%",
+      "rateReturn": "5.53%",
+      "unitPrice": "1067.86"
+    },
+    {
+      "id": "148",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/08/2019",
+      "purchaseFee": "155.32%",
+      "rateReturn": "5.58%",
+      "unitPrice": "1067.4"
+    },
+    {
+      "id": "149",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/08/2019",
+      "purchaseFee": "156.32%",
+      "rateReturn": "5.64%",
+      "unitPrice": "1066.82"
+    },
+    {
+      "id": "150",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/08/2019",
+      "purchaseFee": "157.32%",
+      "rateReturn": "5.55%",
+      "unitPrice": "1068.26"
+    },
+    {
+      "id": "151",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/08/2019",
+      "purchaseFee": "158.32%",
+      "rateReturn": "5.5%",
+      "unitPrice": "1069.16"
+    },
+    {
+      "id": "152",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/08/2019",
+      "purchaseFee": "159.32%",
+      "rateReturn": "5.5%",
+      "unitPrice": "1069.38"
+    },
+    {
+      "id": "153",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "12/08/2019",
+      "purchaseFee": "160.32%",
+      "rateReturn": "5.53%",
+      "unitPrice": "1069.2"
+    },
+    {
+      "id": "163",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/08/2019",
+      "purchaseFee": "170.32%",
+      "rateReturn": "5.54%",
+      "unitPrice": "1071.31"
+    },
+    {
+      "id": "164",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/08/2019",
+      "purchaseFee": "171.32%",
+      "rateReturn": "5.64%",
+      "unitPrice": "1070.23"
+    },
+    {
+      "id": "165",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/08/2019",
+      "purchaseFee": "172.32%",
+      "rateReturn": "5.73%",
+      "unitPrice": "1069.3"
+    },
+    {
+      "id": "166",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "29/08/2019",
+      "purchaseFee": "173.32%",
+      "rateReturn": "5.76%",
+      "unitPrice": "1069.15"
+    },
+    {
+      "id": "167",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "30/08/2019",
+      "purchaseFee": "174.32%",
+      "rateReturn": "5.67%",
+      "unitPrice": "1070.53"
+    },
+    {
+      "id": "168",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/09/2019",
+      "purchaseFee": "175.32%",
+      "rateReturn": "5.61%",
+      "unitPrice": "1071.53"
+    },
+    {
+      "id": "169",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/09/2019",
+      "purchaseFee": "176.32%",
+      "rateReturn": "5.62%",
+      "unitPrice": "1071.63"
+    },
+    {
+      "id": "170",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/09/2019",
+      "purchaseFee": "177.32%",
+      "rateReturn": "5.53%",
+      "unitPrice": "1073.01"
+    },
+    {
+      "id": "171",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/09/2019",
+      "purchaseFee": "178.32%",
+      "rateReturn": "5.49%",
+      "unitPrice": "1073.74"
+    },
+    {
+      "id": "172",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/09/2019",
+      "purchaseFee": "179.32%",
+      "rateReturn": "5.48%",
+      "unitPrice": "1074.09"
+    },
+    {
+      "id": "173",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/09/2019",
+      "purchaseFee": "180.32%",
+      "rateReturn": "5.44%",
+      "unitPrice": "1074.82"
+    },
+    {
+      "id": "174",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/09/2019",
+      "purchaseFee": "181.32%",
+      "rateReturn": "5.44%",
+      "unitPrice": "1075.04"
+    },
+    {
+      "id": "175",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/09/2019",
+      "purchaseFee": "182.32%",
+      "rateReturn": "5.44%",
+      "unitPrice": "1075.26"
+    },
+    {
+      "id": "176",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "12/09/2019",
+      "purchaseFee": "183.32%",
+      "rateReturn": "5.44%",
+      "unitPrice": "1075.48"
+    },
+    {
+      "id": "177",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/09/2019",
+      "purchaseFee": "184.32%",
+      "rateReturn": "5.42%",
+      "unitPrice": "1075.96"
+    },
+    {
+      "id": "186",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/09/2019",
+      "purchaseFee": "193.32%",
+      "rateReturn": "5.05%",
+      "unitPrice": "1082.47"
+    },
+    {
+      "id": "187",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/09/2019",
+      "purchaseFee": "194.32%",
+      "rateReturn": "5.05%",
+      "unitPrice": "1082.68"
+    },
+    {
+      "id": "188",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "30/09/2019",
+      "purchaseFee": "195.32%",
+      "rateReturn": "5.05%",
+      "unitPrice": "1082.89"
+    },
+    {
+      "id": "189",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "01/10/2019",
+      "purchaseFee": "196.32%",
+      "rateReturn": "5.06%",
+      "unitPrice": "1082.97"
+    },
+    {
+      "id": "190",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/10/2019",
+      "purchaseFee": "197.32%",
+      "rateReturn": "5.05%",
+      "unitPrice": "1083.3"
+    },
+    {
+      "id": "191",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/10/2019",
+      "purchaseFee": "198.32%",
+      "rateReturn": "5.01%",
+      "unitPrice": "1083.99"
+    },
+    {
+      "id": "192",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/10/2019",
+      "purchaseFee": "199.32%",
+      "rateReturn": "4.94%",
+      "unitPrice": "1085.04"
+    },
+    {
+      "id": "193",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/10/2019",
+      "purchaseFee": "200.32%",
+      "rateReturn": "4.93%",
+      "unitPrice": "1085.37"
+    },
+    {
+      "id": "194",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/10/2019",
+      "purchaseFee": "201.32%",
+      "rateReturn": "4.95%",
+      "unitPrice": "1085.33"
+    },
+    {
+      "id": "195",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/10/2019",
+      "purchaseFee": "202.32%",
+      "rateReturn": "4.85%",
+      "unitPrice": "1086.73"
+    },
+    {
+      "id": "196",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/10/2019",
+      "purchaseFee": "203.32%",
+      "rateReturn": "4.75%",
+      "unitPrice": "1088.12"
+    },
+    {
+      "id": "197",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/10/2019",
+      "purchaseFee": "204.32%",
+      "rateReturn": "4.7%",
+      "unitPrice": "1088.92"
+    },
+    {
+      "id": "198",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/10/2019",
+      "purchaseFee": "205.32%",
+      "rateReturn": "4.66%",
+      "unitPrice": "1089.59"
+    },
+    {
+      "id": "199",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "15/10/2019",
+      "purchaseFee": "206.32%",
+      "rateReturn": "4.65%",
+      "unitPrice": "1089.9"
+    },
+    {
+      "id": "200",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "16/10/2019",
+      "purchaseFee": "207.32%",
+      "rateReturn": "4.7%",
+      "unitPrice": "1089.5"
+    },
+    {
+      "id": "213",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/11/2019",
+      "purchaseFee": "220.32%",
+      "rateReturn": "4.56%",
+      "unitPrice": "1093.61"
+    },
+    {
+      "id": "214",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/11/2019",
+      "purchaseFee": "221.32%",
+      "rateReturn": "4.64%",
+      "unitPrice": "1092.89"
+    },
+    {
+      "id": "215",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/11/2019",
+      "purchaseFee": "222.32%",
+      "rateReturn": "4.6%",
+      "unitPrice": "1093.53"
+    },
+    {
+      "id": "216",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/11/2019",
+      "purchaseFee": "223.32%",
+      "rateReturn": "4.57%",
+      "unitPrice": "1094.06"
+    },
+    {
+      "id": "217",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/11/2019",
+      "purchaseFee": "224.32%",
+      "rateReturn": "4.63%",
+      "unitPrice": "1093.58"
+    },
+    {
+      "id": "218",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/11/2019",
+      "purchaseFee": "225.32%",
+      "rateReturn": "4.64%",
+      "unitPrice": "1093.66"
+    },
+    {
+      "id": "219",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "12/11/2019",
+      "purchaseFee": "226.32%",
+      "rateReturn": "4.62%",
+      "unitPrice": "1094.07"
+    },
+    {
+      "id": "220",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/11/2019",
+      "purchaseFee": "227.32%",
+      "rateReturn": "4.66%",
+      "unitPrice": "1093.82"
+    },
+    {
+      "id": "221",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/11/2019",
+      "purchaseFee": "228.32%",
+      "rateReturn": "4.68%",
+      "unitPrice": "1093.79"
+    },
+    {
+      "id": "222",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "18/11/2019",
+      "purchaseFee": "229.32%",
+      "rateReturn": "4.68%",
+      "unitPrice": "1093.99"
+    },
+    {
+      "id": "223",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "19/11/2019",
+      "purchaseFee": "230.32%",
+      "rateReturn": "4.74%",
+      "unitPrice": "1093.72"
+    },
+    {
+      "id": "224",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "21/11/2019",
+      "purchaseFee": "231.32%",
+      "rateReturn": "4.75%",
+      "unitPrice": "1093.81"
+    },
+    {
+      "id": "225",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "22/11/2019",
+      "purchaseFee": "232.32%",
+      "rateReturn": "4.72%",
+      "unitPrice": "1094.33"
+    },
+    {
+      "id": "229",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/11/2019",
+      "purchaseFee": "236.32%",
+      "rateReturn": "4.84%",
+      "unitPrice": "1093.83"
+    },
+    {
+      "id": "230",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "29/11/2019",
+      "purchaseFee": "237.32%",
+      "rateReturn": "4.71%",
+      "unitPrice": "1095.41"
+    },
+    {
+      "id": "231",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/12/2019",
+      "purchaseFee": "238.32%",
+      "rateReturn": "4.76%",
+      "unitPrice": "1095.08"
+    },
+    {
+      "id": "232",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/12/2019",
+      "purchaseFee": "239.32%",
+      "rateReturn": "4.77%",
+      "unitPrice": "1095.17"
+    },
+    {
+      "id": "233",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/12/2019",
+      "purchaseFee": "240.32%",
+      "rateReturn": "4.71%",
+      "unitPrice": "1096"
+    },
+    {
+      "id": "234",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/12/2019",
+      "purchaseFee": "241.32%",
+      "rateReturn": "4.73%",
+      "unitPrice": "1095.98"
+    },
+    {
+      "id": "248",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/12/2019",
+      "purchaseFee": "255.32%",
+      "rateReturn": "4.66%",
+      "unitPrice": "1099.62"
+    },
+    {
+      "id": "249",
+      "year": "2019",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "30/12/2019",
+      "purchaseFee": "256.32%",
+      "rateReturn": "4.64%",
+      "unitPrice": "1051.39"
+    },
+    {
+      "id": "250",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/01/2020",
+      "purchaseFee": "257.32%",
+      "rateReturn": 4.61,
+      "unitPrice": "1051.87"
+    },
+    {
+      "id": "251",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/01/2020",
+      "purchaseFee": "258.32%",
+      "rateReturn": 4.63,
+      "unitPrice": "1051.86"
+    },
+    {
+      "id": "252",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/01/2020",
+      "purchaseFee": "259.32%",
+      "rateReturn": "4.58%",
+      "unitPrice": "1052.52"
+    },
+    {
+      "id": "253",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/01/2020",
+      "purchaseFee": "260.32%",
+      "rateReturn": 4.58,
+      "unitPrice": "1052.71"
+    },
+    {
+      "id": "254",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "08/01/2020",
+      "purchaseFee": "261.32%",
+      "rateReturn": 4.55,
+      "unitPrice": "1053.18"
+    },
+    {
+      "id": "255",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/01/2020",
+      "purchaseFee": "262.32%",
+      "rateReturn": 4.5,
+      "unitPrice": "1053.84"
+    },
+    {
+      "id": "256",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/01/2020",
+      "purchaseFee": "263.32%",
+      "rateReturn": "4.56%",
+      "unitPrice": "1053.44"
+    },
+    {
+      "id": "257",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/01/2020",
+      "purchaseFee": "264.32%",
+      "rateReturn": "4.54%",
+      "unitPrice": "1053.82"
+    },
+    {
+      "id": "258",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/01/2020",
+      "purchaseFee": "265.32%",
+      "rateReturn": "4.53%",
+      "unitPrice": "1054.09"
+    },
+    {
+      "id": "259",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "15/01/2020",
+      "purchaseFee": "266.32%",
+      "rateReturn": 4.45,
+      "unitPrice": "1055.03"
+    },
+    {
+      "id": "260",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "16/01/2020",
+      "purchaseFee": "267.32%",
+      "rateReturn": 4.47,
+      "unitPrice": "1055.02"
+    },
+    {
+      "id": "261",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "17/01/2020",
+      "purchaseFee": "268.32%",
+      "rateReturn": 4.48,
+      "unitPrice": "1055.1"
+    },
+    {
+      "id": "262",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "20/01/2020",
+      "purchaseFee": "269.32%",
+      "rateReturn": 4.49,
+      "unitPrice": "1055.19"
+    },
+    {
+      "id": "263",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "21/01/2020",
+      "purchaseFee": "270.32%",
+      "rateReturn": 4.48,
+      "unitPrice": "1055.46"
+    },
+    {
+      "id": "264",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "22/01/2020",
+      "purchaseFee": "271.32%",
+      "rateReturn": 4.44,
+      "unitPrice": "1056.01"
+    },
+    {
+      "id": "265",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "23/01/2020",
+      "purchaseFee": "272.32%",
+      "rateReturn": 4.43,
+      "unitPrice": "1056.28"
+    },
+    {
+      "id": "266",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "24/01/2020",
+      "purchaseFee": "273.32%",
+      "rateReturn": 4.41,
+      "unitPrice": "1056.64"
+    },
+    {
+      "id": "267",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/01/2020",
+      "purchaseFee": "274.32%",
+      "rateReturn": 4.4,
+      "unitPrice": "1056.9"
+    },
+    {
+      "id": "268",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/01/2020",
+      "purchaseFee": "275.32%",
+      "rateReturn": 4.38,
+      "unitPrice": "1057.26"
+    },
+    {
+      "id": "269",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "29/01/2020",
+      "purchaseFee": "276.32%",
+      "rateReturn": 4.39,
+      "unitPrice": "1057.35"
+    },
+    {
+      "id": "270",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "30/01/2020",
+      "purchaseFee": "277.32%",
+      "rateReturn": 4.41,
+      "unitPrice": "1057.34"
+    },
+    {
+      "id": "271",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "31/01/2020",
+      "purchaseFee": "278.32%",
+      "rateReturn": 4.43,
+      "unitPrice": "1057.34"
+    },
+    {
+      "id": "272",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/02/2020",
+      "purchaseFee": "279.32%",
+      "rateReturn": 4.44,
+      "unitPrice": "1057.43"
+    },
+    {
+      "id": "273",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/02/2020",
+      "purchaseFee": "280.32%",
+      "rateReturn": 4.38,
+      "unitPrice": "1058.14"
+    },
+    {
+      "id": "274",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/02/2020",
+      "purchaseFee": "281.32%",
+      "rateReturn": 4.37,
+      "unitPrice": "1058.4"
+    },
+    {
+      "id": "275",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/02/2020",
+      "purchaseFee": "282.32%",
+      "rateReturn": 4.43,
+      "unitPrice": "1058.05"
+    },
+    {
+      "id": "276",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "07/02/2020",
+      "purchaseFee": "283.32%",
+      "rateReturn": 4.38,
+      "unitPrice": "1058.66"
+    },
+    {
+      "id": "277",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/02/2020",
+      "purchaseFee": "284.32%",
+      "rateReturn": 4.34,
+      "unitPrice": "1059.19"
+    },
+    {
+      "id": "278",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/02/2020",
+      "purchaseFee": "285.32%",
+      "rateReturn": 4.33,
+      "unitPrice": "1059.45"
+    },
+    {
+      "id": "279",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "12/02/2020",
+      "purchaseFee": "286.32%",
+      "rateReturn": 4.3,
+      "unitPrice": "1059.88"
+    },
+    {
+      "id": "280",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/02/2020",
+      "purchaseFee": "287.32%",
+      "rateReturn": 4.34,
+      "unitPrice": "1059.71"
+    },
+    {
+      "id": "281",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "14/02/2020",
+      "purchaseFee": "288.32%",
+      "rateReturn": 4.32,
+      "unitPrice": "1060.06"
+    },
+    {
+      "id": "282",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "17/02/2020",
+      "purchaseFee": "289.32%",
+      "rateReturn": 4.32,
+      "unitPrice": "1060.23"
+    },
+    {
+      "id": "283",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "18/02/2020",
+      "purchaseFee": "290.32%",
+      "rateReturn": 4.32,
+      "unitPrice": "1060.4"
+    },
+    {
+      "id": "284",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "19/02/2020",
+      "purchaseFee": "291.32%",
+      "rateReturn": 4.31,
+      "unitPrice": "1060.66"
+    },
+    {
+      "id": "285",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "20/02/2020",
+      "purchaseFee": "292.32%",
+      "rateReturn": 4.29,
+      "unitPrice": "1061"
+    },
+    {
+      "id": "286",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "21/02/2020",
+      "purchaseFee": "293.32%",
+      "rateReturn": 4.29,
+      "unitPrice": "1061.17"
+    },
+    {
+      "id": "287",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/02/2020",
+      "purchaseFee": "294.32%",
+      "rateReturn": 4.27,
+      "unitPrice": "1061.51"
+    },
+    {
+      "id": "288",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/02/2020",
+      "purchaseFee": "295.32%",
+      "rateReturn": 4.28,
+      "unitPrice": "1061.6"
+    },
+    {
+      "id": "289",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "28/02/2020",
+      "purchaseFee": "296.32%",
+      "rateReturn": 4.24,
+      "unitPrice": "1062.11"
+    },
+    {
+      "id": "290",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "02/03/2020",
+      "purchaseFee": "297.32%",
+      "rateReturn": 4.03,
+      "unitPrice": "1064.01"
+    },
+    {
+      "id": "291",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "03/03/2020",
+      "purchaseFee": "298.32%",
+      "rateReturn": 4.09,
+      "unitPrice": "1063.68"
+    },
+    {
+      "id": "292",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "04/03/2020",
+      "purchaseFee": "299.32%",
+      "rateReturn": 3.8,
+      "unitPrice": "1066.23"
+    },
+    {
+      "id": "293",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "05/03/2020",
+      "purchaseFee": "300.32%",
+      "rateReturn": 3.85,
+      "unitPrice": "1065.98"
+    },
+    {
+      "id": "294",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "06/03/2020",
+      "purchaseFee": "301.32%",
+      "rateReturn": 4.1,
+      "unitPrice": "1064.09"
+    },
+    {
+      "id": "295",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "09/03/2020",
+      "purchaseFee": "302.32%",
+      "rateReturn": 4.08,
+      "unitPrice": "1064.42"
+    },
+    {
+      "id": "296",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "10/03/2020",
+      "purchaseFee": "303.32%",
+      "rateReturn": 4.02,
+      "unitPrice": "1065.07"
+    },
+    {
+      "id": "297",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "11/03/2020",
+      "purchaseFee": "304.32%",
+      "rateReturn": 3.95,
+      "unitPrice": "1065.79"
+    },
+    {
+      "id": "298",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "12/03/2020",
+      "purchaseFee": "305.32%",
+      "rateReturn": 5.03,
+      "unitPrice": "1057.4"
+    },
+    {
+      "id": "299",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "13/03/2020",
+      "purchaseFee": "306.32%",
+      "rateReturn": 4.34,
+      "unitPrice": "1063.02"
+    },
+    {
+      "id": "300",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "16/03/2020",
+      "purchaseFee": "307.32%",
+      "rateReturn": 4.03,
+      "unitPrice": "1065.64"
+    },
+    {
+      "id": "301",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "17/03/2020",
+      "purchaseFee": "308.32%",
+      "rateReturn": 3.95,
+      "unitPrice": "1066.43"
+    },
+    {
+      "id": "302",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "18/03/2020",
+      "purchaseFee": "309.32%",
+      "rateReturn": 3.93,
+      "unitPrice": "1066.74"
+    },
+    {
+      "id": "303",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "19/03/2020",
+      "purchaseFee": "310.32%",
+      "rateReturn": 4.41,
+      "unitPrice": "1063.17"
+    },
+    {
+      "id": "304",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "20/03/2020",
+      "purchaseFee": "311.32%",
+      "rateReturn": 4.1,
+      "unitPrice": "1065.74"
+    },
+    {
+      "id": "305",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "23/03/2020",
+      "purchaseFee": "312.32%",
+      "rateReturn": 3.92,
+      "unitPrice": "1067.3"
+    },
+    {
+      "id": "306",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "24/03/2020",
+      "purchaseFee": "313.32%",
+      "rateReturn": 3.94,
+      "unitPrice": "1067.3"
+    },
+    {
+      "id": "307",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "25/03/2020",
+      "purchaseFee": "314.32%",
+      "rateReturn": 3.85,
+      "unitPrice": "1068.15"
+    },
+    {
+      "id": "308",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "26/03/2020",
+      "purchaseFee": "315.32%",
+      "rateReturn": 3.59,
+      "unitPrice": "1070.28"
+    },
+    {
+      "id": "309",
+      "year": "2020",
+      "title": "Tesouro Prefixado com Juros Semestrais (NTNF)",
+      "dueDate": "27/03/2020",
+      "purchaseFee": "316.32%",
+      "rateReturn": 3.63,
+      "unitPrice": "1070.13"
+    }
+  ]
+}
