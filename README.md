@@ -13,8 +13,6 @@
   </a>
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/85156236-f4e0-4969-a500-0b5674e162e1/deploy-status)](https://app.netlify.com/sites/gitwalefe/deploys)
-
 <hr />
 
 ## Features
@@ -28,7 +26,7 @@ This app features all the latest tools and practices in web development!
 
 ## Getting started
 
-1. Clone this repo using `https://github.com/walefe/bootcamp-rocketseat-modulo05.git`
+1. Clone this repo using `https://github.com/walefe/investmenst.git`
 2. Move to the appropriate directory: `cd bootcamp-rocketseat-modulo05`.<br />
 3. Run `yarn` to install dependencies.<br />
 4. Run `yarn start` to see the example app at `http://localhost:3000`.
